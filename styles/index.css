@@ -374,8 +374,7 @@ input::-webkit-input-placeholder {
 .footer__contacts-content {
   display: flex;
   row-gap: 40px;
-  flex-wrap: wrap;
-  width: 58%;
+  width: 73%;
   align-self: center;
   align-items: center;
   justify-content: space-between;
@@ -439,6 +438,7 @@ input::-webkit-input-placeholder {
 
 @media screen and (max-width: 985px) {
   .footer__contacts-content {
+    flex-wrap: wrap;
     width: 98%;
   }
   .footer__contacts-location {
@@ -456,7 +456,5 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-
-/*# sourceMappingURL=index.scss.map */
 
 /*# sourceMappingURL=index.css.map */

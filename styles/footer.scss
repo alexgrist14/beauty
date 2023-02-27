@@ -9,8 +9,7 @@
   &__contacts-content{
     display: flex;
     row-gap: 40px;
-    flex-wrap: wrap;
-    width: 58%;
+    width: 73%;
     align-self: center;
     align-items: center;
     justify-content: space-between;
@@ -75,6 +74,7 @@
 
 @media screen and (max-width: 985px){
   .footer__contacts-content{
+    flex-wrap: wrap;
     width: 98%;
   }
   .footer__contacts-location{
