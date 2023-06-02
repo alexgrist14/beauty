@@ -1,1 +1,1 @@
-# [beauty](https://alexgrist14.github.io/beauty/)
+# https://alexgrist14.github.io/beauty/
